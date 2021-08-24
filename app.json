@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ioasys",
+    "slug": "ioasys",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ioasys"
+}

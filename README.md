@@ -40,7 +40,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
   * react-native-vector-icons
 
-    * `Biblioteca que utilizada para adicionar ícones no projeto. Aqui foi utilizado os ícones do Feather`;
+    * `Biblioteca que utilizada para adicionar ícones no projeto.`;
 
   * styled-components:
 

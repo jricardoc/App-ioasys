@@ -32,7 +32,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
   * @react-navigation:
 
-    * `É uma biblioteca popular para roteamento e navegação em uma aplicação React Native. Essa biblioteca ajuda a resolver o problema de navegar entre várias telas e compartilhar dados entre elas. Aqui foram utilizados a <strong>@react-navigation/bottom-tabs</strong> e a <strong>@react-navigation/stack</strong>`;
+    * `É uma biblioteca popular para roteamento e navegação em uma aplicação React Native. Essa biblioteca ajuda a resolver o problema de navegar entre várias telas e compartilhar dados entre elas. Aqui foram utilizados a @react-navigation/bottom-tabs e a @react-navigation/stack`;
 
   * react-native-gesture-handler:
 

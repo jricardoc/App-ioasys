@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="400px" src="logo.png">
+    <img alt="Logo" title="#logo" width="400px" src="https://ioasys.com.br/static/og-image-7578fe3bd736621f7d9d987908812ee0.jpg">
     <br><br>
     <br>
 </h3>
